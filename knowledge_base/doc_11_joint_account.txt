@@ -1,0 +1,1 @@
+Joint-account rules allow two or more individuals to operate a single banking account. Operating mandates can be configured as either 'Either or Survivor' or 'Jointly'. All account holders share equal legal liability for any overdrafts or outstanding loan obligations. Addition or removal of joint holders requires signed consent from all existing parties.

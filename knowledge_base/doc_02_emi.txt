@@ -1,0 +1,1 @@
+EMI calculation rules depend on the principal loan amount, annual interest rate, and total tenure in months. The formula uses standard reducing balance amortization to compute monthly installments. Any missed payments attract additional penal interest charges and late fees. Pre-equated monthly installment dates are fixed on the fifth of every calendar month.

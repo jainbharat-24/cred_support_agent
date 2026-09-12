@@ -1,0 +1,1 @@
+Prepayment-penalty rules govern partial or full early settlement of active loan accounts. Floating-rate retail loans carry zero prepayment penalties as per regulatory guidelines. Fixed-rate or corporate loans may attract a nominal closure fee ranging from one to three percent. Prepayments are automatically adjusted against the principal outstanding balance.

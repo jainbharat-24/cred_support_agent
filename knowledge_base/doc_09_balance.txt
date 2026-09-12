@@ -1,0 +1,1 @@
+Minimum-balance requirements specify the average monthly balance to be maintained in savings accounts. Non-compliance results in non-maintenance service charges debited at the end of the quarter. Premium account tiers require higher balance thresholds but offer waived banking fees. Balance computations are based on daily closing ledger figures.
